@@ -1,0 +1,44 @@
+body{
+  background-color:#f2f2f2;
+}
+
+h1{
+  font-family: 'Sedgwick Ave Display', cursive;
+  padding-left: 20px;
+  color: #2c3e50;
+}
+
+img{
+  width: 30%;
+  padding-left: 20px;
+}
+
+hr{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 30%;
+  color: #ecf0f1;
+  opacity:0.5;
+}
+
+.icon{
+  text-align: center;
+  }
+
+.fa{
+  color: black;
+}
+
+p{
+  font-family: 'Sedgwick Ave Display', cursive;
+  text-align: center;
+}
+
+.fa-bullseye{
+  color: #2c3e50;
+}
+
+.fa-camera-retro{
+  color: #2c3e50;
+}
